@@ -1,0 +1,25 @@
+{
+  "name": "ai-harnesses",
+  "owner": {
+    "name": "Francois Gerthoffert",
+    "email": "francois.gerthoffert@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Skills, Agents and other AI resources for Agentic workflows by Francois Gerthoffert",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fgerthoffert-personal",
+      "source": "./plugins/fgerthoffert-personal",
+      "description": "Personal plugin containing skills for Francois Gerthoffert's writing style and documentation generation.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Francois Gerthoffert",
+        "email": "francois.gerthoffert@gmail.com"
+      },
+      "license": "MIT",
+      "keywords": ["writing-style", "documentation", "personal"]
+    }
+  ]
+}
