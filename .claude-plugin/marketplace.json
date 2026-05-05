@@ -19,12 +19,7 @@
         "email": "francois.gerthoffert@gmail.com"
       },
       "license": "MIT",
-      "keywords": [
-        "writing-style",
-        "marketplace",
-        "personal",
-        "productivity"
-      ],
+      "keywords": ["writing-style", "marketplace", "personal", "productivity"],
       "category": "productivity",
       "skills": "./plugins/fgerthoffert-personal/skills/"
     }

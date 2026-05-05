@@ -1,6 +1,7 @@
 ---
 name: writing-style
 description: Use this skill whenever the user (Francois Gerthoffert) asks for help drafting, editing, or rewriting blog posts, articles, LinkedIn posts, internal write-ups, or long-form prose. It enforces Francois's voice — pragmatic, candid, lightly self-deprecating, story-led — and strips out the tells of generic AI-generated content. Triggers on "write a post about…", "draft an article…", "make this sound like me", "polish this draft", or anything similar.
+user-invocable: true
 ---
 
 # Write like Francois

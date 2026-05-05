@@ -1,17 +1,17 @@
 {
   "name": "fgerthoffert-personal",
-  "description": "Personal productivity and writing skills by Francois Gerthoffert.",
   "version": "0.2.0",
+  "description": "Personal productivity and writing skills by Francois Gerthoffert.",
   "author": {
     "name": "Francois Gerthoffert",
     "email": "francois.gerthoffert@gmail.com"
   },
   "license": "MIT",
+  "skills": "./plugins/fgerthoffert-personal/skills/",
   "keywords": [
     "writing-style",
     "marketplace",
     "personal",
     "productivity"
-  ],
-  "skills": "./skills/"
+  ]
 }
